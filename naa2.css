@@ -1,0 +1,38 @@
+body {
+    padding: 0.1em;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  
+  nav {
+    background-color: palevioletred;
+    height: 40em;
+    width: 20%;
+    float: left;
+  }
+  
+  header {
+    background-color: rgba(240, 225, 24, 0.953);
+    width: 100%;
+    height: 8em;
+  }
+  
+  main {
+    display: flex;
+  }
+  article {
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    height: 27em;
+  }
+  
+  aside {
+    background-color: powderblue;
+    width: 30%;
+    height: 27em;
+  }
+  
+  footer {
+    background-color: rgba(240, 225, 24, 0.953);
+    width: 100%;
+    height: 5em;
+  }
